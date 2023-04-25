@@ -49,22 +49,16 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/order.png',
+    title: 'Order atleast 2 times a month to get 50% off on the 3rd order',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Tell your friends to get that offer in case you already used it!',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/lottery.png',
+    title: 'Participate in out monthly free lottery and win Deluxe Thali surprise',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
-  },
-  {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Be ready to be amazed. To buy lottery ticket, Rs. 5 extra charge will apply on your order.',
   },
 ];
 
