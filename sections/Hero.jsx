@@ -14,7 +14,7 @@ const Hero = () => (
     >
       <div className="flex justify-center items-center flex-col relative z-10">
         <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-        <h1 className={styles.heroHeading}>A<span className="text-[65px]">W</span>ESOME</h1>
+        A<span className="  sm:text-[75px] md:text-[130px] lg:text-[180px]">W</span>ESOME
         </motion.h1>
         <motion.div
           variants={textVariant(1.2)}

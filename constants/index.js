@@ -27,23 +27,23 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a dish that your heart desires and add it to Cart',
+  'Enter the address (delivery charges depends on the distance)',
+  'Now choose the payment option and hit "Order Now"',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Traditional Bite',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        "Experience the rich and vibrant flavors of India with every bite of our authentic traditional cuisine.",
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Exotic Spices',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+    "Get ready to awaken your taste buds with our exotic and fiery Indian cuisine, bursting with flavor and spice.",
   },
 ];
 
